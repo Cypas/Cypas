@@ -46,11 +46,7 @@
                     style="max-width:100%;"></a></li>
     </ul>
 </li>
-<li>
-    <a href="https://www.r-project.org/" rel="nofollow"><img align="center"
-                src="https://img.shields.io/badge/R-276DC3?logo=R&style=flat-square&logoColor=white"
-                style="max-width:100%;"></a>
-</li>
+
 </ul>
 
 ## 📮 Contact
