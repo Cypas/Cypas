@@ -52,8 +52,8 @@
 ## 📮 Contact
 
 <div align="center">
-  <a href="https://Cypas.space"><img align="center" src="https://img.shields.io/badge/Blog-Cypas-lightblue?logo=hexo&style=for-the-badge">
-  <a href="mailto:smczx@hotmail.com"><img align="center" src="https://img.shields.io/badge/Email-Hotmail-yellowgreen?logo=minutemailer&style=for-the-badge"></a>
+  <a href="https://blog.ayano.top"><img align="center" src="https://img.shields.io/badge/Blog-Cypas-lightblue?logo=hexo&style=for-the-badge">
+  <a href="mailto:ayano05@outlook.com"><img align="center" src="https://img.shields.io/badge/Email-Hotmail-yellowgreen?logo=minutemailer&style=for-the-badge"></a>
 </div>
 
 <p></p>
