@@ -45,7 +45,7 @@
                     src="https://img.shields.io/badge/goland-000000?logo=goland&style=flat-square&logoColor=white"
                     style="max-width:100%;">
          <img align="center"
-                    src="https://img.shields.io/badge/gin-#008ECF?logo=gin&style=flat-square&logoColor=white"
+                    src="https://img.shields.io/badge/gin-008ECF?logo=go&style=flat-square&logoColor=white"
                     style="max-width:100%;">
          <img align="center"
                     src="https://img.shields.io/badge/gorm-4479A1?logo=go&style=flat-square&logoColor=white"
