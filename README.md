@@ -8,7 +8,7 @@
 <p></p>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Cypas&count_private=true&hide=contribs,prs&show_icons=true&theme=radical">
 
-🎓 I'm a new student studying in computer science and information technology area. 
+🎓 I am a computer programming practitioner. 
 
 🖥️ I enjoy programming and implementing some cool ideas. 
 
@@ -20,31 +20,50 @@
 
 <ul>
 <li>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"><img align="center"
-                src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&style=flat-square&logoColor=black"
-                style="max-width:100%;"></a> 
+    <img align="center"
+                src="https://img.shields.io/badge/php-777BB4?logo=php&style=flat-square&logoColor=black"
+                style="max-width:100%;">
     <ul>
-        <li><a href="https://www.jetbrains.com/webstorm/" rel="nofollow"><img align="center"
-                    src="https://img.shields.io/badge/WebStorm-00A2A2?logo=WebStorm&style=flat-square&logoColor=white"
-                    style="max-width:100%;"></a>
-         <a href="https://nodejs.org/" rel="nofollow"><img align="center"
-                    src="https://img.shields.io/badge/Node.js-339933?logo=Nodedotjs&style=flat-square&logoColor=white"
-                    style="max-width:100%;"></a> 
-         <a href="https://rollupjs.org/" rel="nofollow"><img align="center"
-                    src="https://img.shields.io/badge/rollup.js-EC4A3F?logo=rollupdotjs&style=flat-square&logoColor=white"
-                    style="max-width:100%;"></a>
-         <a href="https://webpack.js.org/" rel="nofollow"><img
-                    align="center"
-                    src="https://img.shields.io/badge/Webpack-8DD6F9?logo=Webpack&style=flat-square&logoColor=black"
-                    style="max-width:100%;"></a>
-     </li>
-        <li><a href="https://jquery.com/" rel="nofollow"><img align="center"
-                    src="https://img.shields.io/badge/jQuery-0769AD?logo=jQuery&style=flat-square&logoColor=white"
-                    style="max-width:100%;"></a>
+        <li><img align="center"
+                    src="https://img.shields.io/badge/phpstorm-000000?logo=phpstorm&style=flat-square&logoColor=white"
+                    style="max-width:100%;">
+         <img align="center"
+                    src="https://img.shields.io/badge/thinkphp-339933?logo=php&style=flat-square&logoColor=white"
+                    style="max-width:100%;">
+         <img align="center"
+           src="https://img.shields.io/badge/mysql-4479A1?logo=mysql&style=flat-square&logoColor=white"
+           style="max-width:100%;">
      </li>
     </ul>
 </li>
-
+<li>
+    <img align="center"
+                    src="https://img.shields.io/badge/go-00ADD8?logo=go&style=flat-square&logoColor=black"
+                    style="max-width:100%;">
+    <ul>
+        <li><img align="center"
+                    src="https://img.shields.io/badge/goland-000000?logo=goland&style=flat-square&logoColor=white"
+                    style="max-width:100%;">
+         <img align="center"
+                    src="https://img.shields.io/badge/gin-#008ECF?logo=gin&style=flat-square&logoColor=white"
+                    style="max-width:100%;">
+         <img align="center"
+                    src="https://img.shields.io/badge/gorm-4479A1?logo=go&style=flat-square&logoColor=white"
+                    style="max-width:100%;">
+     </li>
+    </ul>
+</li>
+<li>
+    <img align="center"
+                    src="https://img.shields.io/badge/python-3776AB?logo=python&style=flat-square&logoColor=black"
+                    style="max-width:100%;">
+    <ul>
+        <li><img align="center"
+                    src="https://img.shields.io/badge/sqlalchemy-D71F00?logo=sqlalchemy&style=flat-square&logoColor=white"
+                    style="max-width:100%;">
+     </li>
+    </ul>
+</li>
 </ul>
 
 ## 📮 Contact
